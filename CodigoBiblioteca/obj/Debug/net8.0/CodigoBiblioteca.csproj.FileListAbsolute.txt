@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.exe
+C:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.deps.json
+C:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.runtimeconfig.json
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.dll
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.pdb
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.sourcelink.json
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.dll
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\refint\CodigoBiblioteca.dll
+c:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.pdb
+C:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LiLccoin\AtividadeBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\ref\CodigoBiblioteca.dll
